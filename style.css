@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#sqr {
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+#tri {
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+#cir {
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+#rom {
+  width: 70px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid #000000;
+}
+
+.float-container {
+    padding: 46px;
+ }
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
